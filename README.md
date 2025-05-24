@@ -1,7 +1,7 @@
 # Hi there! I'm mu1zi47 👋
 
 I'm a developer passionate about building modern web applications.  
-I work with technologies like **React**, **Next.js**, **TypeScript**, **Django**, and **Tailwind CSS**.  
+I work with technologies like **JavaScript**, **React** and **Next.js**.
 I love clean code, beautiful UI, and clear architecture.
 
 🚀 Constantly learning and improving my skills.  
