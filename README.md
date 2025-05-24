@@ -1,4 +1,4 @@
-# H1, I'm mu1zi47!
+# <h1 align="center">H1, I'm mu1zi47!</h1>
 
 
 ## 🌐 Socials:
